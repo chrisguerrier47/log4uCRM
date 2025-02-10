@@ -14,3 +14,4 @@ cursorObject.execute("CREATE DATABASE log4U")
 
 print("All Done!")
 
+"   python manage.py runserver"
